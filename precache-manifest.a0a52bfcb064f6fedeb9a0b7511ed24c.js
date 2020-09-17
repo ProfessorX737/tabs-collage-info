@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "60c7341046503f8d4b626ba1e6bd7874",
+    "revision": "77618216799c5705b4e29da86fbfc2bd",
     "url": "/tabs-collage-info/index.html"
   },
   {
-    "revision": "94d4a590bc3ab643bc6d",
+    "revision": "66adaca605ec31440bf7",
     "url": "/tabs-collage-info/static/css/2.1bafa09e.chunk.css"
   },
   {
-    "revision": "c9e9172477c45ebe8c6a",
+    "revision": "8f9e3a079465076a84e4",
     "url": "/tabs-collage-info/static/css/main.bd0d8fdd.chunk.css"
   },
   {
-    "revision": "94d4a590bc3ab643bc6d",
-    "url": "/tabs-collage-info/static/js/2.caf69233.chunk.js"
+    "revision": "66adaca605ec31440bf7",
+    "url": "/tabs-collage-info/static/js/2.751b563a.chunk.js"
   },
   {
     "revision": "301056a7ca16ead6156b38e6917dbb28",
-    "url": "/tabs-collage-info/static/js/2.caf69233.chunk.js.LICENSE.txt"
+    "url": "/tabs-collage-info/static/js/2.751b563a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9e9172477c45ebe8c6a",
-    "url": "/tabs-collage-info/static/js/main.f91f2f16.chunk.js"
+    "revision": "8f9e3a079465076a84e4",
+    "url": "/tabs-collage-info/static/js/main.5a5738eb.chunk.js"
   },
   {
     "revision": "0c5ffe3bc3b22c545e20",

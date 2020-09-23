@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97c7bdb79fd03ab00018a4a697163032",
+    "revision": "6fd21b06f806650a2804fdcd682ca045",
     "url": "/tabs-collage-info/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tabs-collage-info/static/css/2.1bafa09e.chunk.css"
   },
   {
-    "revision": "8031fa3c4d85213759c8",
+    "revision": "487426e23ff760b95e26",
     "url": "/tabs-collage-info/static/css/main.80bfa237.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tabs-collage-info/static/js/2.b47ac1ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8031fa3c4d85213759c8",
-    "url": "/tabs-collage-info/static/js/main.88a03043.chunk.js"
+    "revision": "487426e23ff760b95e26",
+    "url": "/tabs-collage-info/static/js/main.90d80d8f.chunk.js"
   },
   {
     "revision": "0c5ffe3bc3b22c545e20",
